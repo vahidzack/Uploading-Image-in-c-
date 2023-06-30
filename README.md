@@ -1,5 +1,5 @@
-# Uploading-Image-in-c-
-This method use for upload image in c# .net 
+# Uploading-Image and video -in-csharp
+This method use for upload image and video in c# .net 
   public static class UploadImageExtension
   {
 
